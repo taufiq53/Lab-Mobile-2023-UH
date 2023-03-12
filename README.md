@@ -1,4 +1,4 @@
-# Tugas Praktikum Group Asistensi [D] OOP 2023
+# Tugas Praktikum Group Asistensi [B] Pemrograman Mobile 2023
 
 *//*>
 
@@ -108,4 +108,4 @@ git push origin main
 
 Note : Selain dengan menggunakan cara diatas, kamu juga bisa drag and drop menggunakan fitur _upload file_
   
-  <font color="#00ffff" size="5"> Jika ada kendala pada proses mengumpulkan tugas boleh tanyakan pada saat asistensi 😉</font>
+  <font color="#00ffff" size="5"> Jika ada kendala pada proses mengumpulkan tugas boleh tanyakan pada saat asistensi 🍵</font>
